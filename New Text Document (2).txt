@@ -1,0 +1,750 @@
+<html lang="en"><head>
+    <script src="/assets_pages/js/jquery.2.1.3.min.js?v=8"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RHINO</title>
+    <link type="image/x-icon" href="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/favicon.png" rel="shortcut icon">
+    <link href="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/css/style.css" rel="stylesheet">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Uropro">
+    <meta property="og:description" content="">
+    <meta property="og:url" content="https://saleegoods.com/page/c9c19c2522efc1ab20773df4835d1aeef4e50215">
+    
+    </head>
+    <body data-new-gr-c-s-check-loaded="14.1108.0" data-gr-ext-installed="">
+    <div class="ramadan_img" style="display: none;"><img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/ramadan.png" alt=""></div>
+    <header class="buy__order">
+    <div class="container">
+    <div class="buy__order-inner">
+    <div class="buy__order-description">
+    <div class="buy__order-wrapper-titles">
+    <h2 class="buy__order-title">RHINO</h2>
+<h3 class="buy__order-subtitle">Nouvelles fonctionnalités pour le plaisir</h3>
+</div>
+<ul class="buy__order-list">
+  <li>Érections puissantes à tout âge</li>
+  <li>Désir sexuel amélioré</li>
+  <li>Expériences plus épanouissantes multipliées par 4</li>
+  <li>Orgasmes intenses</li>
+  <li>Augmentation de l'énergie et de l'endurance</li>
+</ul>
+<div class="buy__order-product">
+  <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/product.png" alt="">
+  <div class="buy__order-product-mark">Remise <br>
+    <span>95%</span>
+  </div>
+</div>
+</div>
+<form method="post" action="" class="main-order-form buy__order-form orderFormWrapper order-form">
+  <div class="buy__order-form-price">
+    <div class="new__price-wrapper">
+      <div class="new__price">Nouveau prix :</div>
+      <div class="new__price-number">
+        <span class="displayCurrentPrice">147 roubles</span>
+      </div>
+    </div>
+    <div class="old__price">Ancien prix : <span class="displayPrevPrice">1147 roubles</span></div>
+  </div>
+  <div class="buy__order-form-confidentiality">
+    Toutes les informations sont confidentielles et ne seront pas divulguées.
+  </div>
+  <div class="buy__order-form-main">
+    <label>
+      <span>Veuillez entrer votre nom :</span>
+      <input type="text" name="name" placeholder="Nom" required="">
+    </label>
+    <label>
+      <span>Veuillez entrer votre numéro de téléphone :</span>
+      <input type="tel" name="phone" placeholder="+7 (800) 0000001" required="">
+    </label>
+    <button class="btn">Commander</button>
+    <p></p>
+  </div>
+  <input type="hidden" name="l" value="c9c19c2522efc1ab20773df4835d1aeef4e50215">
+  <input type="hidden" name="3ee8bb91f122aafc49f3cecd9d4610f444cfaf13" value="NWUxOGVkODlkNjMxYTY2ZjVmZDE1ZWY0NGI5NjczZTU5NjU=">
+</form>
+</div>
+</div>
+<div class="buy__order-img"></div>
+</header>
+<section class="problems">
+<div class="container">
+  <h2 class="section__title">
+    <span class="word-uppercase">Pourquoi les problèmes</span><br>
+    au lit se produisent-ils ?
+  </h2>
+  <div class="problems__inner">
+    <div class="problems__list problems__list-first">
+      <div class="problems__item">
+        <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/problems__list-1.jpg" alt="">
+        <p class="problems__item-description">Mode de vie sédentaire</p>
+      </div>
+      <div class="problems__item">
+       <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/problems__list-2.jpg" alt="">
+        <p class="problems__item-description">Style de vie inactif</p>
+      </div>
+      <div class="problems__list-wrapper">
+        <div class="problems__item">
+          <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/problems__list-5.jpg" alt="">
+          <p class="problems__item-description">Carences en vitamines et minéraux</p>
+        </div>
+        <div class="problems__item hidden">
+          <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/problems__list-6.jpg" alt="">
+          <p class="problems__item-description">Mauvaises habitudes</p>
+        </div>
+        <div class="problems__item hidden">
+          <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/problems__list-3.jpg" alt="">
+          <p class="problems__item-description">Maladies sexuellement transmissibles et infections du système reproducteur</p>
+        </div>
+        <div class="problems__item hidden">
+          <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/problems__list-4.jpg" alt="">
+          <p class="problems__item-description">Stress constant</p>
+        </div>
+      </div>
+    </div>
+    <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/problems__img.png" alt="" class="problems__img">
+    <div class="problems__list problems__list-second">
+      <div class="problems__item">
+        <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/problems__list-3.jpg" alt="">
+        <p class="problems__item-description">Maladies sexuellement transmissibles et infections du système reproducteur</p>
+      </div>
+      <div class="problems__item">
+        <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/problems__list-4.jpg" alt="">
+        <p class="problems__item-description">Stress constant</p>
+      </div>
+      <div class="problems__item">
+        <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/problems__list-6.jpg" alt="">
+        <p class="problems__item-description">Mauvaises habitudes</p>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+    <section class="symptoms">
+    <div class="container">
+    <h2 class="section__title">
+    <span>
+<span class="word-uppercase">Avez-vous rencontré</span><br>
+ces problèmes auparavant?
+</span>
+</h2>
+<div class="symptoms__inner">
+<div class="symptoms__item">
+<img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/symptoms__img-1.jpg" alt="">
+<div class="symptoms__item-content">
+<p>Il est difficile d'être excité ou de ne pas avoir envie d'avoir des rapports sexuels</p>
+</div>
+</div>
+<div class="symptoms__item">
+<img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/symptoms__img-2.jpg" alt="">
+<div class="symptoms__item-content">
+<p>Faible érection pendant les rapports sexuels</p>
+</div>
+</div>
+<div class="symptoms__item">
+<img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/symptoms__img-3.jpg" alt="">
+<div class="symptoms__item-content">
+<p>Éjaculation faible et précoce</p>
+</div>
+</div>
+<div class="symptoms__item">
+<img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/symptoms__img-4.jpg" alt="">
+<div class="symptoms__item-content">
+<p>Manque de force physique et sensation d'essoufflement</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section>
+    <section class="product__description">
+    <div class="container">
+    <h2 class="section__title">
+<span class="word-uppercase">Vous pouvez réaliser beaucoup</span> de ce que vous n'attendez pas
+</h2>
+<div class="product__description-inner">
+<div class="product__description-txt">
+<p>
+    Le produit naturel RHINO augmente le désir sexuel et stimule les sensations sexuelles.
+    Peu importe votre âge, le sexe deviendra plus long et plus épanouissant.
+    Un traitement aphrodisiaque naturel, en plus d'une gamme de vitamines et de minéraux
+    nécessaires à la santé masculine, stimule le corps à produire de la testostérone avec force. L'utilisation régulière du médicament
+    aide à transformer la vie sexuelle pour le mieux. Chaque homme a sa propre réaction spécifique au médicament. Mais en prenant RHINO, vous obtiendrez un résultat garanti - une augmentation de la puissance sexuelle.
+    Commandez RHINO maintenant et prenez le contrôle de votre vie sexuelle!
+</p>
+</div>
+</div>
+</div>
+</div>
+    <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/product-2.png" alt="" class="product__description-image-product">
+    </div>
+    <div class="btn-wrapper">
+<button class="btn toForm">Commander</button>
+</div>
+<div class="product__description-img"></div>
+</div>
+</section>
+<section class="buy__order buy__order-second">
+<div class="container">
+<div class="buy__order-description buy__order-second-description">
+<h2 class="buy__order-title">RHINO</h2>
+<h3 class="buy__order-subtitle">
+    Produit puissant pour un plaisir réel
+</h3>
+<ul class="buy__order-list buy__order-second-list">
+<li>
+<div>
+    Érection <span class="word-green">rapide</span> dans n'importe quelle position
+</div>
+</li>
+<li>
+<div>
+<span class="word-green">Augmentation</span> de la durée des rapports sexuels
+</div>
+</li>
+<li>
+<div>
+    Amélioration de la <span class="word-green">quantité et de la qualité</span> du sperme
+</div>
+</li>
+<li>
+<div>
+<span class="word-green">Éjaculations abondantes et quatre fois plus intenses</span> pendant l'orgasme
+</div>
+</li>
+<li>
+<div>
+<span class="word-green">Plus d'énergie</span> et capacité à endurer
+</div>
+</li>
+<li>
+<div>Stimulation des niveaux d'hormone <span class="word-green">testostérone chez les hommes</span></div>
+</li>
+</ul>
+<div class="buy__second-order-wrapper-btn">
+<button class="btn toForm">Commander</button>
+ </div>
+    </div>
+    <div class="buy__order-second-image"></div>
+    </div>
+    </section>
+    <section class="efficiency">
+    <div class="container">
+    <div class="efficiency__inner">
+    <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/efficiency__img.png" alt="">
+    <div class="efficiency__description">
+<h2 class="section__title">
+        Efficacité
+    <span class="word-green">prouvée par </span>la recherche
+    </h2>
+    <p>
+    <span class="word-red">RHINO combine</span> la recherche scientifique et les traditions anciennes.
+     Les scientifiques se sont basés sur l'extrait d'huître connu comme le stimulant sexuel le plus puissant au monde pour la formulation du traitement.    </p>
+    <p>
+        Ils ont ajouté 
+    <span class="word-red">un mélange de vitamines et de minéraux extraits de 23 plantes</span> qui contiennent les éléments nécessaires pour soutenir la santé des hommes et fournir un effet continu et cumulatif.
+
+    </span>, qui contiennent les éléments nécessaires pour soutenir la santé des hommes et fournir un effet stable et cumulatif.
+    </p>
+    </div>
+    </div>
+    </div>
+    </section>
+    <section class="oyster">
+    <div class="container">
+    <h2 class="section__title">Extrait d'huître:</h2>
+    <div class="oyster__inner">
+    <ol class="oyster__list">
+    <li>
+    <p>
+        - Augmente le désir<br>
+        sexuel et améliore<br>
+        l'érection forte
+    </p>
+    </li>
+    <li>
+    <p>
+        Augmente la production de l'hormone testostérone et améliore l'attraction sexuelle
+    </p>
+    </li>
+    <li>
+    <p>
+        Empêche l'éjaculation précoce et améliore l'orgasme sexuel
+    </p>
+    </li>
+    <li>
+    <p>Augmente la quantité et la qualité des spermatozoïdes</p>
+    </li>
+    <li>
+    <p>Améliore la capacité d'endurance et les performances sexuelles</p>
+    </li>
+    </ol>
+    <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/oster.png" alt="">
+    </div>
+    </div>
+    </section>
+    <section class="product__adventures">
+    <div class="container">
+    <h2 class="section__title">
+        Les résultats de l'étude montrent que Rhino est plus efficace que les autres méthodes en termes de plusieurs critères:
+    </h2>
+    <div class="product__adventures-inner">
+    <table>
+    <thead class="table__head">
+    <tr>
+    <td></td>
+    <td class="have-bg">
+    <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/product-3.png" alt="">
+    </td>
+    <td class="third-column">
+        Produits basés sur <br>
+        le sildénafil
+    </td>
+    </tr>
+    </thead>
+    <tbody><tr>
+    <td>Effet sur l'érection</td>
+    <td class="have-bg">99%</td>
+    <td class="third-column">78%</td>
+    </tr>
+    <tr>
+    <td>Effet sur la durée des rapports sexuels</td>
+   <td class="have-bg">96%</td>
+    <td class="third-column">2%</td>
+    </tr>
+    <tr>
+    <td>Effet sur l'excitation sexuelle</td>
+    <td class="have-bg">93%</td>
+    <td class="third-column">45%</td>
+    </tr>
+    <tr>
+    <td>Effet sur la quantité et la qualité des spermatozoïdes</td>
+    <td class="have-bg">95%</td>
+    <td class="third-column">3%</td>
+    </tr>
+    <tr>
+    <td>Effet sur la fertilité masculine</td>
+    <td class="have-bg">0%</td>
+    <td class="third-column">98%</td>
+    </tr>
+    </tbody></table>
+    <div class="product__adventures-btn-wrapper">
+    <button class="btn toForm">Commander</button>
+    </div>
+    </div>
+    </div>
+    </section>
+    <section class="doctor__review">
+    <div class="container">
+    <div class="doctor__review-inner">
+    <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/doc.png" alt="">
+    <div class="doctor__review-description">
+    <h2 class="section__title">Les experts recommandent:</h2>
+    <div class="doctor__review-description-wrapper">
+    <div class="doctor__review-description-txt">
+    <p>
+        Les substances connues précédemment pour leur efficacité sur la puissance sexuelle ont un impact négatif sur le système cardiovasculaire et ont une efficacité faible ou temporaire.
+        C'était le cas jusqu'à récemment. Le nouveau médicament RHINO rassemble tous les ingrédients actifs clés pour convenir à chaque homme, quel que soit son âge.
+    </p>
+    <p>
+        Les traitements aident à la capacité d'érection.
+        Cela conduit à une érection stable et commence à renforcer les fibres musculaires.
+
+    </p>
+    <p>
+        L'utilisation régulière du produit rééquilibre les hormones masculines, augmente la production de spermatozoïdes,
+        et augmente la sensibilité pendant les rapports sexuels. Vous commencez à avoir un contrôle total sur la durée des rapports sexuels et le moment de l'éjaculation.
+    </p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="review__doctor-name">
+    <div class="container">
+    <div class="review__doctor-name-content">
+    <div class="review__doctor-name-title">
+        Dr. Días Madiev, andrologue.
+    </div>
+    <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/painting.png" alt="">
+    </div>
+    </div>
+    </div>
+    </section>
+    <section class="reviews">
+    <div class="container">
+    <h2 class="section__title">Commentaires sur Rhino:</h2>
+    <div class="reviews__inner slick-initialized slick-slider">
+    <div class="slick-list draggable" style="height: 274px;"><div class="slick-track" style="opacity: 1; width: 5120px; transform: translate3d(-1024px, 0px, 0px);"><div class="reviews__item slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1" style="width: 1024px;">
+    <div class="reviews__item-wrapper">
+    <div class="reviews__item-image">
+    <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/reviews-1.png" alt="">
+    </div>
+   
+    <div class="reviews__item-wrapper">
+    <div class="reviews__item-image">
+    <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/reviews-1.png" alt="">
+    </div>
+    <div class="reviews__item-content">
+<h3 class="reviews__item-title">Oras Khalmatjanov, 34 years old</h3>
+<p>
+    I had sexual problems that I couldn't solve on my own.
+    I was worried about staying weak in erection and went to the doctor. I had a blood test and underwent the necessary examinations, then the doctor prescribed RHINO to me.
+    I didn't think I would be sexually active in this way again. I got rid of all the symptoms and feel a significant improvement.
+</p>
+
+<section class="how__buy">
+    <div class="container">
+        <h2 class="section__title">How to place an order:</h2>
+        <div class="how__buy-inner">
+            <ol>
+                <li class="how__buy-item">
+                    <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/how__buy-1.jpg" alt="">
+                    <p>Fill out the order form and wait for the operator's call.</p>
+                </li>
+                <li class="triangle"></li>
+                <li class="how__buy-item">
+                    <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/how__buy-2.jpg" alt="">
+                    <p>
+                        Confirm the order and make a prepayment or pay for the product upon delivery.
+                    </p>
+                </li>
+                <li class="triangle"></li>
+                <li class="how__buy-item">
+                    <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/how__buy-3.jpg" alt="">
+                    <p>
+                        Receive the product<br>
+                        through postal delivery service.
+                    </p>
+                </li>
+            </ol>
+        </div>
+    </div>
+</section>
+
+<section class="buy__order buy__order-third">
+    <div class="container">
+        <div class="buy__order-inner">
+            <div class="buy__order-description">
+                <h2 class="buy__order-title">RHINO</h2>
+                <h3 class="buy__order-subtitle">
+                    New <span class="word-red">Possibilities</span><br>
+                    to <span class="word-red">Enjoy</span>
+                </h3>
+                <ul class="buy__order-list">
+                    <li>Strong erection at any age</li>
+                    <li>Enhanced sexual desire</li>
+                    <li>4 times brighter experiences</li>
+                    <li>Powerful body tremors</li>
+                    <li>Increase in energy and endurance</li>
+                </ul>
+                <div class="buy__order-product">
+                    <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/product.png" alt="">
+                    <div class="buy__order-product-mark">
+                        Discount<br>
+                        <span>95%</span>
+                    </div>
+                </div>
+            </div>
+            <form method="post" action="" class="main-order-form buy__order-form orderFormWrapper order-form">
+                <div class="buy__order-form-price">
+                    <div class="new__price-wrapper">
+                        <div class="new__price">New Price:</div>
+                        <div class="new__price-number">
+                            <span class="displayCurrentPrice">147 rubles</span>
+                        </div>
+                    </div>
+                    <div class="old__price">Ancien prix: <span class="displayPrevPrice">1147 roubles</span></div>
+    </div>
+    <div class="buy__order-form-confidentiality">
+        Toutes les informations sont confidentielles et ne seront pas divulguées.
+    </div>
+    <div class="buy__order-form-main">
+    <label>
+    <span>Veuillez entrer votre nom :</span>
+    <input type="text" name="name" placeholder="Nom" required=""></label>
+    <label>
+    <span>Veuillez entrer votre numéro de téléphone :</span>
+    <input type="tel" name="phone" placeholder="+7 (800) 0000001 "></label>
+    <button class="btn">Commander
+    </button>
+    <p></p>
+    </div>
+    <input type="hidden" name="l" value="c9c19c2522efc1ab20773df4835d1aeef4e50215">
+    <input type="hidden" name="3ee8bb91f122aafc49f3cecd9d4610f444cfaf13" value="NWUxOGVkODlkNjMxYTY2ZjVmZDE1ZWY0NGI5NjczZTU5NjU=">
+    </form>
+    </div>
+    </div>
+    <div class="buy__order-img"></div>
+    </section>
+    <footer class="footer cpu">
+        <img src="/assets_pages/copyrights/0/17-black-320.png" alt="">
+                <a href="/politics/?l=c9c19c2522efc1ab20773df4835d1aeef4e50215&amp;language=kz">Politique de confidentialité</a>
+                <a href="/agreement/?l=c9c19c2522efc1ab20773df4835d1aeef4e50215&amp;language=kz">Contrat utilisateur</a>
+    </footer>
+    <script type="text/javascript" src="/assets_pages/js/lib.js?v=0.0.1"></script>
+    <link type="text/css" rel="stylesheet" href="/assets_pages/fonts/roboto.css">
+    <script type="text/javascript" src="/assets_pages/js/yasoblock-v2.js?v=1"></script>
+    <script type="text/javascript" src="/assets_pages/js/plugins.js"></script>
+    <script type="text/javascript" src="/assets_pages/js/copyrights.js?v=1"></script>
+    
+        <script type="text/javascript">
+            var phonePrefix = '+77';
+        </script>
+        <script type="text/javascript" src="/assets_pages/js/phonePrefix.js?v=3"></script>
+    
+        <script type="text/javascript" src="/assets_pages/js/check.js"></script>
+        <script type="text/javascript" src="/assets_pages/js/detect.js?v=0.1"></script>
+    
+        
+        
+        <script type="text/javascript">
+            var phoneError5 = 'Сан кемінде 5 таңбадан тұруы керек';
+        </script>
+    
+        
+    
+    <script>
+        $(function () {
+            let addParams = JSON.parse('{"langCode":"kz","ua_lang":"en"}');
+    
+            importantAsset('14024', '' +  '/' +  '/' +  'm' +  '1' +  '.' +  't' +  'o' +  'p' +  '/' +  's' +  'e' +  'n' +  'd' +  '_' +  's' +  't' +  'a' +  't' +  '_' +  'o' +  'r' +  'd' +  'e' +  'r' +  '/', 300735, addParams);
+            
+            if (!$('.order-script').length) {
+                if (Math.floor(Math.random() * 2) == 1) {
+                    importantAsset2('14024', '' +  '/' +  '/' +  'm' +  '1' +  '.' +  't' +  'o' +  'p' +  '/' +  's' +  'e' +  'n' +  'd' +  '_' +  'o' +  'r' +  'd' +  'e' +  'r' +  '/');
+                }
+            }
+        });
+    </script>
+                <script type="text/javascript" class="order-script" src="/assets_pages/js/order.js?v=2"></script>
+        
+    
+    <script>
+        var comebackerFormId = '4';
+    </script>
+    
+    <link href="/assets_pages/css/popup-m1-style.css?v=0.0.3" rel="stylesheet" type="text/css">
+    <script src="/assets_pages/js/popup-m1.js?v=0.0.1" type="text/javascript"></script>
+    
+    <div id="overlay-popup-m1"></div>
+    <div id="m1-form" class="m1modal">
+        <a class="close-m1"></a>
+        <div><div class="popup-m1-title">АРНАЙЫ ҰСЫНЫСЫҢЫЗ бар!</div>
+            <div class="popup-m1-cont">
+                <div class="popup-m1-text1">Біз сізге осы өнім туралы бәрін айтып береміз және ең жақсы жағдайларды ұсынамыз!</div>
+                <form method="post" action="" class="main-order-form popup-m1-form" onsubmit="return false;">
+                    <input type="text" name="name" placeholder="Атыңызды енгізіңіз" required="">
+                    <input type="tel" name="phone" placeholder="Телефонды енгізіңіз" required="">
+                    <button>маған қоңырау шалыңыз</button>
+                    <input type="hidden" name="is_popup" value="1">
+                    <input type="hidden" name="from_recall_button" value="0">
+                    <input type="hidden" name="form_id">
+                    <input type="hidden" name="l" value="c9c19c2522efc1ab20773df4835d1aeef4e50215">
+                    <input type="hidden" name="3ee8bb91f122aafc49f3cecd9d4610f444cfaf13" value="NWUxOGVkODlkNjMxYTY2ZjVmZDE1ZWY0NGI5NjczZTU5NjU=">
+                </form>
+                        </div>
+        </div>
+    </div>
+    
+    <script type="text/javascript">
+        $(function(){
+                });
+    </script>
+    
+    
+    <link rel="stylesheet" href="/assets_pages/css/enhancer_all_style.css?v=3">
+    
+    
+    
+    <script>
+        var data = 'u=1&track=ref%253D300735%253B%2Bs%253D%253B%2Bw%253D%253B%2Bt%253D%253B%2Bp%253D%253B%2Bm%253D&landing_id=23695&prokl_id=0&ip=51.159.153.147&lnk=0&product=14024&sale=phone&is_organic=1&user_device=0&tel=phone&fio=fio&host=https%3A%2F%2Fsaleegoods.com%2Fpage%2Fc9c19c2522efc1ab20773df4835d1aeef4e50215&tren=0&useragent=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2&showcase_from=0&is_backorder=1',
+            fp;
+    
+        $(function(){
+            if (typeof Fingerprint2!='undefined'){
+                Fingerprint2.get(function(components) {
+                    fp = Fingerprint2.x64hash128(components.map(function (pair) { return pair.value }).join(), 31);
+                    data += '&fp='+fp;
+                    $(document).trigger("fp.ready");
+                });
+            }
+        });
+    
+    
+        setTimeout(function(){
+            $('body').append('<img style=\'display:none;\' src=\'//m1.top/pixel/?'+data+'\'>');
+        }, 90000);
+    </script>
+    <link rel="stylesheet" href="/assets_pages/css/popup.css">
+    <script>
+        $(function(){
+           $(document).on("click", "._popup-link", function(){
+              var elem = $(this),
+                  target =  elem.data("target"),
+                  modal = $("#popup-m1-politicians-container[data-modalname="+target+"]");
+    
+              $("body").append(modal);
+              modal.fadeIn();
+              return false;
+           });
+           $(document).on("click", "._popup-close", function(){
+               var elem = $(this),
+                   modal = elem.parents("._popup");
+    
+               modal.fadeOut();
+               return false;
+           });
+        });
+    </script>
+    
+    <!-- popup-m1-politicians-container -->
+    <div id="popup-m1-politicians-container" class="_popup" style="display:none;" data-modalname="agreement">
+    
+        <div class="overlay"></div>
+        <div id="popup-m1-politicians">
+            <div class="popup-m1-politicians__close _popup-close"></div>
+            <div class="popup-m1-politicians__content">
+                <div class="popup-m1-content">
+                    <div class="popup-m1-politicians__title">
+<h4>Termes et conditions</h4>
+                    </div>
+                    <div class="popup-m1-politicians__text">
+                        <p>Les informations fournies sur ce site sont uniquement à des fins informatives et ne visent pas à remplacer les conseils de votre médecin ou d'autres professionnels de la santé, ni toute information figurant sur l'étiquetage du produit ou de l'emballage. Vous devez toujours consulter votre médecin avant d'utiliser tout type de compléments alimentaires. Les produits annoncés ici ne visent pas à diagnostiquer, traiter ou prévenir une maladie. En cas de changement dans votre état de santé, veuillez cesser d'utiliser le produit et contacter immédiatement votre professionnel de santé.</p>
+                        <p>Veuillez noter que les résultats peuvent varier d'une personne à l'autre en fonction de l'état de santé, du sexe, de l'âge et du mode de vie.</p>
+                        <p>Veuillez noter qu'il existe un lien financier entre la société affiliée exploitant ce site et le fournisseur des produits ou services mentionnés. De plus, l'affilié peut recevoir une commission financière ou une compensation non financière lorsque vous cliquez sur un lien affilié sur ce site, y compris, sans s'y limiter, lorsque vous achetez un produit ou un service auprès du fournisseur après avoir cliqué sur un lien affilié sur ce site.</p>
+                        <p>Le site recommande de pratiquer des activités physiques quotidiennes et de suivre un régime alimentaire sain, car ce sont les principaux facteurs qui contribuent à un mode de vie sain.</p>
+                        <p>Toutes les marques commerciales sur ce site, qu'elles soient enregistrées ou non, sont la propriété de leurs propriétaires respectifs. Les images sous licence sont utilisées à des fins d'illustration uniquement et ne sont pas une approbation des modèles présentés.</p>
+                        <p>L'utilisation de ce site est soumise aux termes et conditions suivants :</p>
+                        <p>Le contenu de ce site est destiné à être utilisé à des fins d'information générale et peut être modifié à tout moment, à notre seule discrétion.
+                            Nous ne garantissons ni ne représentons, ni aucun tiers, l'exactitude, la rapidité, les performances, l'exhaustivité ou l'adéquation des informations et des matériaux disponibles sur ce site. Vous reconnaissez que ces informations et ces matériaux peuvent contenir des inexactitudes et nous déclinons toute responsabilité pour toute erreur ou problème pouvant résulter de telles inexactitudes.
+                            <br>
+                            L'utilisation des informations et des matériaux disponibles sur ce site se fait sous votre propre responsabilité et nous ne sommes pas responsables des conséquences pouvant résulter de l'utilisation de ces informations et de ces matériaux. Il est de votre responsabilité de vous assurer que tout produit, service ou information fourni par ce site répond à vos besoins spécifiques.
+                            <br>
+                            Ce site contient des matériaux que nous ne possédons pas ou qui nous sont concédés sous licence. Ces matériaux comprennent, sans s'y limiter, la conception, la mise en page, la forme générale, les graphiques. La reproduction totale ou partielle est strictement interdite en vertu des conditions générales et constitue une violation des lois sur les droits d'auteur.
+<br>
+De temps en temps, ce site peut inclure des liens vers d'autres sites Web. Ces liens sont fournis pour votre commodité afin de fournir plus d'informations ou de services, et cela ne signifie pas nécessairement que nous approuvons ces sites. Nous déclinons toute responsabilité quant au contenu des sites auxquels nous renvoyons.
+<br>
+Veuillez noter que nous ne faisons aucune fausse déclaration concernant les sociétés mentionnées sur ce site, et nous reconnaissons que les produits, noms de sociétés et logos sont des marques commerciales de leurs propriétaires respectifs. Le site est simplement une source publicitaire où vous pouvez trouver des évaluations et des informations sur les prix des produits.
+<br><br>
+     LLC "TD Globus Contract" OGRN 1161832052832 <br>
+                            TIN 1840051997, 426072, Izhevsk, <br>
+                            St. Molodezhnaya, house 35 office 13.
+                        </p>
+                    </div>
+                    <div class="popup-m1-politicians__close-button _popup-close _popup-close">Close</div>
+                </div>
+            </div>
+        </div>
+        <!-- /popup-m1-politicians -->
+    
+    </div>
+    <!-- popup-m1-politicians-container -->
+    
+    <!-- popup-m1-politicians-container -->
+    <div id="popup-m1-politicians-container" class="_popup" style="display: none" data-modalname="politics">
+    
+        <div class="overlay"></div>
+        <div id="popup-m1-politicians">
+            <div class="popup-m1-politicians__close _popup-close"></div>
+            <div class="popup-m1-politicians__content">
+                <div class="popup-m1-content">
+                    <div class="popup-m1-politicians__title">
+<h4>Politique de confidentialité :</h4>
+</div>
+<div class="popup-m1-politicians__text">
+<strong>Politique de confidentialité</strong>
+<p>Nous attachons de l'importance à votre vie privée. Afin de mieux protéger votre vie privée, nous fournissons cette notification pour expliquer les pratiques de collecte d'informations électroniques et les choix que vous pouvez faire concernant la manière dont vos informations personnelles sont collectées et utilisées. Pour faciliter l'accès à cette notification, nous la rendons disponible sur notre page d'accueil et à tous les points où des informations personnelles identifiables peuvent être demandées.</p>
+<p>Les serveurs publicitaires ou d'autres réseaux publicitaires tiers peuvent utiliser des cookies pour suivre les activités des utilisateurs sur ce site afin de mesurer l'efficacité des publicités et pour d'autres raisons qui seront précisées dans leurs propres politiques de confidentialité. Ce site n'a aucun accès ni contrôle sur ces cookies qui peuvent être utilisés par d'autres annonceurs tiers.</p>
+<strong>Collecte d'informations personnelles</strong>
+
+<p>Lorsque vous visitez ce site, l'adresse IP de l'utilisateur qui accède au site, ainsi que les dates et heures d'accès, sont enregistrées. Ces informations sont exclusivement utilisées pour analyser les tendances, gérer le site, suivre les mouvements des utilisateurs et collecter des informations démographiques à grande échelle à des fins internes. Plus important encore, toutes les adresses IP enregistrées ne sont pas liées à des informations personnelles spécifiques.</p>
+<strong>Liens vers des sites Web externes</strong>
+
+<p>Nous avons inclus des liens sur ce site pour votre utilisation et référence. Nous ne sommes pas responsables des politiques de confidentialité de ces sites. Vous devez être conscient que les politiques de confidentialité de ces sites peuvent différer des nôtres.</p>
+<strong>Modifications de cette politique de confidentialité</strong>
+
+<p>Les contenus de cette déclaration peuvent être modifiés à tout moment, à notre discrétion.</p>
+
+ </div>
+                    <div class="popup-m1-politicians__close-button _popup-close">إغلاق</div>
+                </div>
+            </div>
+        </div>
+        <!-- /popup-m1-politicians -->
+    
+    </div>
+    <!-- popup-m1-politicians-container -->
+    
+    <div id="popup-m1-politicians-container" class="_popup" style="display: none" data-modalname="returnPolicy">
+        <div class="overlay"></div>
+        <div id="popup-m1-politicians">
+            <div class="popup-m1-politicians__close _popup-close"></div>
+            <div class="popup-m1-politicians__content">
+                <div class="popup-m1-content">
+                    <div class="popup-m1-politicians__title">
+                        <h4>Retour des produits</h4>
+                    </div>
+                    <div class="popup-m1-politicians__text">
+                        <p>Je (l'acheteur) accepte les conditions de l'accord/ de l'offre.</p>
+    <strong>Accord/Offre utilisateur</strong>
+    <p>Cet accord/offre contient les principales conditions de vente des biens/services. L'acheteur a le droit de ne pas accepter cet accord/offre, ce qui entraîne le refus de conclure le contrat.</p>
+    <strong>A propos de l'acheteur et des paiements</strong>
+    <p>L'acheteur confirme qu'il a le droit de conclure un contrat de vente et d'achat de l'article et que les informations fournies par lui sont correctes.</p>
+    <strong>A propos des informations sur le site et des informations sur le produit</strong>
+    <p>Toutes les mesures raisonnables ont été prises par le propriétaire de ce site pour garantir l'exactitude et la mise à jour des informations publiées sur ce site, cependant, leur exactitude et leur exhaustivité ne peuvent pas être garanties. Le propriétaire du site se réserve le droit de modifier le contenu des matériaux publiés sur ce site à tout moment, à sa propre discrétion. Le propriétaire du site est une entreprise mentionnée au bas de la page d'accueil du site. Le propriétaire du site peut ne pas correspondre au propriétaire du nom de domaine correspondant au site.</p>
+    <strong>Limitation de responsabilité pour l'utilisation des informations sur le site</strong>
+    <p>Quelles que soient les évolutions qui peuvent survenir en raison de la capacité/incapacité d'utiliser les ressources de ce site, ainsi que de l'utilisation de toute information de ce site par une personne, si l'utilisation de ces informations ou l'incapacité de les utiliser cause un dommage, le propriétaire du site et ses partenaires ne seront pas responsables de tout dommage direct ou indirect, accessoire ou lié, en particulier les dommages résultant de la perte d'opportunités, de la perte de rentabilité, de l'augmentation des dépenses, de la perte d'informations, etc.</p>
+    <strong>Droits des tiers et reproduction des informations</strong>
+    <p>Les marques commerciales affichées sur ce site sont la propriété de leurs propriétaires et ne peuvent être utilisées par aucun tiers sans autorisation de leurs propriétaires. L'affichage des marques commerciales sur ce site n'accorde aucun droit à un tiers de copier les marques commerciales et de les publier sur d'autres sites (produits). La reproduction des informations de ce site et leur publication sur d'autres sites à des fins commerciales ne sont pas autorisées.</p>
+    <strong>Concernant la signature du contrat</strong>
+    <p>L'acheteur qui souhaite acheter le produit sur le site remplit les formulaires correspondants et envoie une demande de traitement et de préparation du colis. Le vendeur des produits garantit uniquement l'expédition du colis après sa préparation. Le vendeur des produits ne garantit pas la préparation complète du colis ; une partie des produits est rejetée lors de la préparation et n'est pas envoyée à l'acheteur, et l'expédition postale n'est pas traitée. Le contrat est considéré comme conclu à partir de la date de livraison du produit à l'acheteur et du paiement de son prix.</p>
+    <strong>Concernant la livraison en cas de livraison des marchandises</strong>
+    <p>Les conditions de livraison et le calendrier de livraison à l'acheteur sont régis par des tiers (le service postal kazakh, les services de livraison, les entreprises logistiques, etc.) et sont déterminés selon les règles applicables dans ces institutions. Lors de la commande sur le site ou par téléphone, différentes options de livraison seront proposées à l'acheteur, qui sont actuellement disponibles dans sa région.</p>
+    <strong>A propos du retour du produit</strong>
+    <p>Le produit doit être emballé dans un emballage commercial à l'intérieur du colis. Le retour du produit sans emballage postal supplémentaire n'est pas autorisé.</p>
+    <p>L'acheteur a le droit de retourner les marchandises en bon état, dans un délai de 7 jours, à condition de conserver leurs caractéristiques de consommation, leur apparence et les documents joints à l'achat et à l'emballage.</p>
+    <p>L'acheteur a le droit de retourner un produit de qualité inadaptée pendant la période de garantie d'un an, à compter de la date de réception du produit par l'acheteur. Si une autre période est spécifiée dans les documents joints au produit, la période de garantie sera ajustée en conséquence.</p>
+    <p>Tout produit retourné doit être envoyé à l'adresse spécifiée dans le contrat de commande, qui est indiquée dans la déclaration de retour du produit.</p>
+<div class="popup-m1-politicians__close-button _popup-close">Fermer</div>
+</div>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    <script src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/js/slick.min.js"></script>
+    <script src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/js/slider.js"></script>
+    <style>
+            .ramadan_img{
+                display: none;
+                padding: 10px 0;
+                text-align: center;
+                background: #222;
+            }
+            .ramadan_img img{
+                width: 100px;
+            }
+        </style>
+        <script>
+            var startDate = new Date('2023-03-22');
+            var endDate = new Date('2023-04-21');
+            var targetDate = new Date();
+            if (targetDate >= startDate && targetDate <= endDate) {
+                $(".ramadan_img").show();
+            } else {
+                $(".ramadan_img").hide();
+            }
+        </script>
+    
+    <span href="#" id="popup_red_multi_lang_btn"></span><img style="display:none;" src="//m1.top/pixel/?u=1&amp;track=ref%253D300735%253B%2Bs%253D%253B%2Bw%253D%253B%2Bt%253D%253B%2Bp%253D%253B%2Bm%253D&amp;landing_id=23695&amp;prokl_id=0&amp;ip=51.159.153.147&amp;lnk=0&amp;product=14024&amp;sale=phone&amp;is_organic=1&amp;user_device=0&amp;tel=phone&amp;fio=fio&amp;host=https%3A%2F%2Fsaleegoods.com%2Fpage%2Fc9c19c2522efc1ab20773df4835d1aeef4e50215&amp;tren=0&amp;useragent=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2&amp;showcase_from=0&amp;is_backorder=1&amp;fp=3dbaa021f49ef4ef34bf31225fc7e181"></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>

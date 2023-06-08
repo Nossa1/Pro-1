@@ -1,0 +1,48 @@
+  <h3 class="reviews__item-title">أوراز خلماتجانوف، 34 عامًا</h3>
+    <p>
+        ظهرت لدي مشاكل في الجانب الجنسي ولم أستطع حلها بنفسي.
+         خفت أن أبقى ضعيف الإنتصاب وذهبت إلى الطبيب. قمت بتحليل الدم واجريت الفحوصات اللازمة، ثم وصف لي الطبيب RHINO. 
+        لم أكن أعتقد أنني سأكون نشطًا جنسياً بهذا الشكل مرة أخرى. تخلصت من جميع الأعراض وأشعر بتحسن كبير.
+    </p>
+
+
+
+   <section class="doctor__review">
+    <div class="container">
+    <div class="doctor__review-inner">
+    <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/doc.png" alt="">
+    <div class="doctor__review-description">
+    <h2 class="section__title">الخبراء يوصون:</h2>
+    <div class="doctor__review-description-wrapper">
+    <div class="doctor__review-description-txt">
+    <p>
+        المواد المعروفة سابقًا للقوة الجنسية تؤثر بشكل سلبي على الجهاز القلبي الوعائي وتتمتع بفعالية ضعيفة أو مؤقتة.
+         كان الأمر كذلك حتى وقت قريب. جمع الدواء الجديد RHINO جميع المكونات الفعالة الرئيسية لتتناسب مع كل رجل في أي عمر.
+    </p>
+    <p>
+        تساعد العلاجات على القدرة على الانتصاب.
+         هذا يؤدي إلى انتصاب ثابت ويبدأ في تعزيز الألياف العضلية.
+
+    </p>
+    <p>
+        الاستخدام المنتظم للمنتج يعيد توازن الهرمونات الذكرية، يزيد إنتاج الحيوانات المنوية،
+         ويزيد الحساسية أثناء الجماع. تبدأ في السيطرة الكاملة على مدة الجماع ووقت القذف.
+    </p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="review__doctor-name">
+    <div class="container">
+    <div class="review__doctor-name-content">
+    <div class="review__doctor-name-title">
+        دياس مادييف، طبيب أندروولوجي.
+    </div>
+    <img src="/assets_page/4d6337ce964082b92bc809131dd0ed5bd46fc3c2/img/painting.png" alt="">
+    </div>
+    </div>
+    </div>
+    </section>
+    <section class="reviews">
+    <div class="container">
